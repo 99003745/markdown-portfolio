@@ -1,2 +1,2 @@
-:+1: bike
-:+1: painting
+* :+1: bike
+*  :+1: painting
